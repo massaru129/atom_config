@@ -1,0 +1,15 @@
+contents_collector:
+  title: "contents_collector"
+  paths: [
+    "/Users/masaru/programming/python/contents_collector"
+  ]
+MuttsuriPJ:
+  title: "MuttsuriPJ"
+  paths: [
+    "/Users/masaru/programming/ruby/MuttsuriPJ"
+  ]
+chainer:
+  title: "chainer"
+  paths: [
+    "/Users/masaru/programming/python/chainer"
+  ]

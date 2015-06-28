@@ -1,0 +1,21 @@
+"*":
+  editor:
+    invisibles: {}
+    fontSize: 12
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+    disabledPackages: [
+      "linter-python-pep8"
+    ]
+  "exception-reporting":
+    userId: "5fce81a8-c08b-e165-ac5e-02661b403629"
+  welcome:
+    showOnStartup: false
+  "autocomplete-plus": {}
+  linter: {}
+  term2: {}
+  "vim-mode": {}
+  "git-plus": {}
